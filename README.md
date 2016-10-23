@@ -1,11 +1,11 @@
-**=-Siri - ein Discord-bot-=-**\n
-\n
-**-=-Neuerungen:**\n
-**Musikfeature** - schreibe Hey Siri, play Link, um einen Song abzuspielen.
+**=-Siri - ein Discord-bot-=-**  
+  
+**-=-Neuerungen:**  
+**Musikfeature** - schreibe Hey Siri, play Link, um einen Song abzuspielen.  
+  
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-  
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
--=-**Commands:
+-=-**Commands:**
 
 -=-Prefix: **Hey Siri,**
 -=-GROSS/kleinschreibung ist **egal!
@@ -31,7 +31,7 @@
 -=-Play YOUTUBE-LINK - Falls noch nocht geschehen, joint sie in deinen Voice-channel und spielt den Ton des Videos ab.
 
 
-**WARNUNG! DIESES FEATURE IST NOCH SEHR INSTABIL UND KANN JEDERZEIT ABSTUERZEN. ES EXISTIERT NOCH KEINE QUEUE UND PLAYLISTS WERDEN NOCH NICHT UNTERSTUETZT. FERNER SOLLTEN KEINE PLAY-CMDS AUSGEFUEHRT WERDEN, WAEHREND EIN VIDEO ABGESPIELT WIRD. DIES KOENNTE EINEN CRASH VERURSACHEN.
+**WARNUNG! DIESES FEATURE IST NOCH SEHR INSTABIL UND KANN JEDERZEIT ABSTUERZEN. ES EXISTIERT NOCH KEINE QUEUE UND PLAYLISTS WERDEN NOCH NICHT UNTERSTUETZT. FERNER SOLLTEN KEINE PLAY-CMDS AUSGEFUEHRT WERDEN, WAEHREND EIN VIDEO ABGESPIELT WIRD. DIES KOENNTE EINEN CRASH VERURSACHEN.**
 
 
 
