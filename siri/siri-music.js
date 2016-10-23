@@ -109,4 +109,4 @@ var voiceChannel = message.member.voiceChannel;
 
 });
 
-music.login('MjMwMDA2NzY5NjQ3MDkxNzEy.CuzWYQ.VvpLkOQLmQ1oGJpibnoIXcXa9wI');
+music.login('CENSORED');
