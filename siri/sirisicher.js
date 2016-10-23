@@ -416,4 +416,4 @@ var voiceChannel = message.member.voiceChannel;
 
 });
 
-bot.login('MjMwMDA2NzY5NjQ3MDkxNzEy.CuzWYQ.VvpLkOQLmQ1oGJpibnoIXcXa9wI');
+bot.login('CESNORED');
